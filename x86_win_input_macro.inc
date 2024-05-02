@@ -19,8 +19,6 @@
 .model flat,stdcall
 .stack 4096
 
-.global
-
 ; Mouse keys
 KEY_LMB equ 01h
 KEY_RMB equ 02h
