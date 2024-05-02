@@ -15,6 +15,5 @@ without virtual keycodes and macros.
 # x86_win_input_macro.asm
 Translated Into x86 Assembly for Windows, compiles with the <i>MASM32</i> assembler on <i>Visual Studio 2022</i>.
 
-# x86_win_input_macro.asm
-Translated Into x64 Assembly for Windows, I Intend on making It compile with the <i>MASM64</i> assembler on <i>Visual Studio 2022</i>,
-although currently It does not work, still a work In progress.
+# x64_win_input_macro.asm
+Translated Into x64 Assembly for Windows, compiles with the <i>MASM64</i> assembler on <i>Visual Studio 2022</i>
