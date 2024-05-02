@@ -24,6 +24,7 @@ Translated Into x64 assembly for Windows, compiles with the <i>MASM64</i> assemb
 # ARM64_MacOS_input_library.s
 Translated Into ARM64 assembly for <i>Apple Silicon</i> devices (<i>MacOS</i>)
 
+# Special key table
 | Key  | Macro name | Virtual Keycode WIN32  | Virtual Keycode (MacOS) |
 | ------------- | ------------- |----------------|--------------|
 | Left Mouse Button  | KEY_LMB  | 0x01 |  |
