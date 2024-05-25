@@ -43,6 +43,15 @@ DEALINGS IN THE SOFTWARE.
 | 29/04/2024 |
 --------------
 - Begun adding the virtual keycodes for MacOS
+
+--------------
+| To do list |
+--------------
+- Add Linux virtual key codes
+
+- setup ALL key codes, currently I have skipped rarely used, unpopular key codes
+
+- add more functionality to the header, should do more to help with input than just virtual key codes.
 */
 
 #pragma once
